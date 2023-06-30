@@ -71,6 +71,15 @@ public:
 		}
 	}
 
+	void inorder(Node* ptr)
+	{
+		if (ROOT = NULL)
+		{
+			cout << "Tress is empty" << endl;
+			return;
+		}
+	}
+
 
 };
 
