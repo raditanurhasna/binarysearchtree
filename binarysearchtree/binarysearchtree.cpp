@@ -12,7 +12,10 @@ public:
 	// Constructor for the the node class
 	Node(string i, Node* I, Node* r)
 	{
-
+		info = i;
+		leftchild = I;
+		rightchild = r;
 	}
 
-}
+};
+
